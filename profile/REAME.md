@@ -1,6 +1,6 @@
-# YonseiDrone - README.md
+# YonseiDrone
 
-![YonseiDrone Logo](assets/banner.psd)
+![YonseiDrone Logo](../assets/banner.png)
 
 Welcome to the **YonseiDrone** GitHub organization! We are a team of drone enthusiasts, engineers, and researchers from Yonsei University, South Korea. Our mission is to develop cutting-edge drone technology for various applications, ranging from aerial photography to autonomous delivery.
 
